@@ -6,4 +6,5 @@
     * [Selection Sort](./selection-sort)
     * [Merge Sort](./merge-sort)
     * [Binary Search](./binary-search)
+    * [Insertion Sort with Binary Search](./binary-insertion-sort)
 
