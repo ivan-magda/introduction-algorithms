@@ -4,9 +4,9 @@
 
 2. (2.1.1 - 2.4)
     * [Insertion Sort](./insertion-sort)
-    * [Selection Sort](./selection-sort)
-    * [Merge Sort](./merge-sort)
-    * [Binary Search](./binary-search)
-    * [Insertion Sort with Binary Search](./binary-insertion-sort)
-    * [Find pair with given sum in the array](./find-pair-with-given-sum-array)
+    * [2.2.2 Selection Sort](./selection-sort)
+    * [2.3.2 Merge Sort](./merge-sort)
+    * [2.3.5 Binary Search](./binary-search)
+    * [2.3.6 Insertion Sort with Binary Search](./binary-insertion-sort)
+    * [2.3.7 Find pair with given sum in the array](./find-pair-with-given-sum-array)
 
