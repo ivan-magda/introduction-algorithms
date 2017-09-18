@@ -1,4 +1,4 @@
-# 2.3.7 Find pair with given sum in the array
+# Find pair with given sum in the array
 
 ### Build and Run
 
